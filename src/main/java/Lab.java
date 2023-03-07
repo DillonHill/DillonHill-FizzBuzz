@@ -22,6 +22,6 @@ public class Lab {
         if(n % 5 == 0){
             retval += "Buzz";
         }
-        return retval;
+        return retval; 
     }
 }
